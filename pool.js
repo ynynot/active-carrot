@@ -7,5 +7,3 @@ var facilityBooking = document.getElementById("main_content").getElementsByClass
 facilityBooking.innerHTML = facilityBooking.innerHTML.replace("Facility Booking", "Pool Availbility");
 
 }
-
-console.log(location.pathname.indexOf('customer/dashboard'))
